@@ -2,7 +2,7 @@
 
 This is the full source code for the practical guide *[Learn Git in a Day: Everything you need, nothing you don't](https://faun.dev/sensei/academy/learn-git-in-a-day-fae561-02e121-dfadb8-e2e0a6-4bc/)*
 
-[![Learn Git in a Day](resources/images/LearnGitInADay.png)](https://faun.dev/sensei/academy/learn-git-in-a-day-fae561-02e121-dfadb8-e2e0a6-4bc/)
+[![Learn Git in a Day](static/images/3d.png)](https://faun.dev/sensei/academy/learn-git-in-a-day-fae561-02e121-dfadb8-e2e0a6-4bc/)
 
 ---
 
